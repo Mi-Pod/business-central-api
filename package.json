@@ -4,7 +4,7 @@
   "description": "Intended for use with Microsoft Dynamics 365 Business Central..",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/Mi-Pod/business-central-api/issues"
   },
-  "homepage": "https://github.com/Mi-Pod/business-central-api#readme"
+  "homepage": "https://github.com/Mi-Pod/business-central-api#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.5.0",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
