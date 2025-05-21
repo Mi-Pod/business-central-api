@@ -4,7 +4,7 @@ Intended for use with Microsoft Dynamics 365 Business Central..
 
 # Updates
 
-## v0.0.1
+## v0.0.1 - Initialize Package for NPM Publishing
 - Initialized Package with default function
 - Configured Package Settings
 - Published to NPM
