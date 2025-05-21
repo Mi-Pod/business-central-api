@@ -8,3 +8,4 @@ Intended for use with Microsoft Dynamics 365 Business Central..
 - Initialized Package with default function
 - Configured Package Settings
 - Published to NPM
+- Created dev branch
