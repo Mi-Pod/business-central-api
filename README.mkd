@@ -1,0 +1,10 @@
+# Business Central API module
+
+Intended for use with Microsoft Dynamics 365 Business Central..
+
+# Updates
+
+## v0.0.1
+- Initialized Package with default function
+- Configured Package Settings
+- Published to NPM
